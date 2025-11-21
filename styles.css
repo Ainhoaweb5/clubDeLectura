@@ -77,3 +77,21 @@ figure img {
 #proposito p{
     text-align: justify;
 }
+
+#calendario{
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid white;
+    width: 50%;
+    height: 20%;
+}
+
+tr, th, td{
+    border: 1px solid white;
+    margin: 2%;
+}
