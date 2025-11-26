@@ -24,7 +24,7 @@ nav{
 
 #res, #recom{
     text-align: justify;
-    margin: 0 auto;
+    margin: 0 5%;
 }
 
 #reunion{
@@ -93,5 +93,36 @@ table{
 
 tr, th, td{
     border: 1px solid white;
-    margin: 2%;
+    margin: 0 auto;
+}
+
+#formulario{
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.campos{
+    display: flex;
+    gap: 50%;
+}
+
+.campos2{
+    display: flex;
+    gap: 50%;
+    margin: 3% auto;
+}
+
+#contenidoformulario{
+    text-align: justify;
+}
+
+textarea{
+    width: 50%;
+}
+
+#entrega{
+    margin: 5% auto;
 }
