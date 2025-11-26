@@ -102,6 +102,7 @@ tr, th, td{
     margin-top: 5%;
     margin-left: 20%;
     margin-right: 20%;
+    border: 1px white;
 }
 
 .campos{
@@ -125,4 +126,8 @@ textarea{
 
 #entrega{
     margin: 5% auto;
+}
+
+#politicaPrivacidad{
+    margin: 5% 10%;
 }
